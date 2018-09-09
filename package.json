@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-mongo": "^2.0.1",
+    "express-session": "^1.15.6",
+    "graphql-yoga": "1.16.2",
+    "mongoose": "^5.2.13",
+    "ms": "^2.1.1"
+  }
+}
